@@ -16,7 +16,7 @@
             <div class="col-sm-3">
                 <div class="card">
                     <div class="card-header bg-light text-white">
-                        <img src="siderman.jpg" class="img-fluid rounded" />
+                        <img src="Spider-man.jpg" class="img-fluid rounded" />
                     </div>
                     <div class="card-body">
                         <p>Spider-Man: Far From Home is a 2019 American superhero film based on the Marvel Comics character Spider-Man, 
