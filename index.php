@@ -15,11 +15,11 @@
         <div class="row">
             <div class="col-sm-3">
                 <div class="card">
-                    <div class="card-header bg-danger text-white">
+                    <div class="card-header bg-light text-white">
                         <img src="office1.jpg" class="img-fluid rounded" />
                     </div>
                     <div class="card-body">
-                        <p>This is a computer.</p>
+                        <p>This is my computer that i am working on.</p>
                     </div>
                     <div class="card-footer">
                         By 026
@@ -28,7 +28,7 @@
             </div>
             <div class="col-sm-3">
                 <div class="card">
-                    <div class="card-header bg-danger text-white">
+                    <div class="card-header bg-light text-white">
                         <img src="work9.jpg" class="img-fluid rounded" />
                     </div>
                     <div class="card-body">
@@ -41,11 +41,11 @@
             </div>
             <div class="col-sm-3">
                 <div class="card">
-                    <div class="card-header bg-danger text-white">
+                    <div class="card-header bg-light text-white">
                         <img src="staff4.jpg" class="img-fluid rounded" />
                     </div>
                     <div class="card-body">
-                        <p>She is my staff.</p>
+                        <p>She is the one who helps me work .</p>
                     </div>
                     <div class="card-footer">
                         By 026
